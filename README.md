@@ -3,8 +3,8 @@ Projeto técnico feito no 3º Bimestre do 2º ano de Informática. Foram usados 
 
 ## PROJETO DE PROGRAMAÇÃO AVANÇADA PARA WEB -3º BIMESTRE
 
-1. Construa as seguintes tabelas com os seguintes atributos:
-a. Aluno (matrícula, nome, rg, cpf, data_nascimento, idTurma)
+1. Construa as seguintes tabelas com os seguintes atributos:<br/>
+a. Aluno (matrícula, nome, rg, cpf, data_nascimento, idTurma)<br/>
 b. Turma (idTurma, nomeTurma, nomeCurso).
 
 2. Construa uma página de cadastro de Turmas. A página deve inserir dados na tabela
